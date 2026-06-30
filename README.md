@@ -12,9 +12,9 @@ The objective is to transform raw data into meaningful insights and communicate 
 
 ## 📂 Dataset
 
-**Dataset Name:** [Dataset Name]
+**Dataset Name:** [Customer shopping behavior]
 
-**Source:** [Kaggle / Company Data / Public Dataset]
+**Source:** [Kaggle ]
 
 **Description:**
 The dataset contains information related to [sales, customers, retail, healthcare, etc.]. It includes multiple attributes used for analysis, trend identification, and business decision-making.
